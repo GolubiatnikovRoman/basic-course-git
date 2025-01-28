@@ -1,1 +1,1 @@
-# basic-course-git
+# Git. Базовый курс
